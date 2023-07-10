@@ -1,0 +1,4 @@
+name: McSkill
+version: '${project.version}'
+main: yuta0919.mcskill.McSkill
+api-version: 1.19
